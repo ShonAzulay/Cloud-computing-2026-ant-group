@@ -2,7 +2,7 @@
 
 An advanced cloud-integrated Smart Agriculture ecosystem that unifies IoT telemetry simulation, deep-learning computer vision, and an intelligent Gemini-powered RAG knowledge engine.
 
-🚀 **[Try it on Google Colab](https://colab.research.google.com/github/ShonAzulay/Cloud-computing-2026-ant-group/blob/fix/sdk-and-code-cleanup/Final%20submission/HW3_Ant_FINAL.ipynb)**
+🚀 **[Try it on Google Colab](https://colab.research.google.com/github/ShonAzulay/Cloud-computing-2026-ant-group/blob/fix-sdk-and-code-cleanup/Final%20submission/HW3_Ant_FINAL.ipynb)**
 
 ---
 
